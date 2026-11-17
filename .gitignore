@@ -1,0 +1,8 @@
+# never upload project data or API keys
+data/
+output/
+*.dta
+*.pkl
+.env
+old_run_*/
+*.zip
